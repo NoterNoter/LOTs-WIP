@@ -39,4 +39,6 @@
      text-rendering: optimizeLegibility;
  }
  
-
+ @font-feature-values "Satoshi-Bold" {
+     @swash { fancy: 1 }
+   }
