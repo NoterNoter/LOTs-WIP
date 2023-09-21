@@ -86,7 +86,7 @@
   },
   "target": "web",
   "dependencies": {
-    "swiper": "^8.4.5",
-    "gsap": "file:gsap-bonus.tgz"
+    "gsap": "file:gsap-bonus.tgz",
+    "swiper": "^8.4.5"
   }
 }

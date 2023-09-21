@@ -1,6 +1,7 @@
 
 a{
   color: #F4F0EA;
+  text-decoration: underline !important;
 }
 
 
@@ -23,9 +24,12 @@ a{
 .header{
   width: 100%;
   display: flex;
-  font-family: Satoshi-Medium;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  .logo{
+    font-family: Satoshi-Medium;
+  }
 }
 
 
@@ -78,7 +82,7 @@ a{
     justify-content: center;
     gap: 5px;
     .social{
-      text-decoration: underline;
+      text-decoration: underline !important;
     }
   }
 }
