@@ -6,11 +6,6 @@ import { SplitText } from "gsap/SplitText";
 gsap.registerPlugin(ScrollToPlugin, ScrollTrigger, SplitText);
 
 
-
-
-
-
-
 // animation quotes
 
 const quotes = document.querySelectorAll(".animation-text");
