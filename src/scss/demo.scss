@@ -29,6 +29,7 @@ a{
   text-align: center;
   .logo{
     font-family: Satoshi-Medium;
+    font-feature-settings: "salt";
   }
 }
 
@@ -83,6 +84,8 @@ a{
     gap: 5px;
     .social{
       text-decoration: underline !important;
+      font-feature-settings: "salt";
+      font-weight: 500;
     }
   }
 }
