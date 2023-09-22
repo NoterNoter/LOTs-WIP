@@ -30,6 +30,9 @@ a{
   .logo{
     font-family: Satoshi-Medium;
     font-feature-settings: "salt";
+    span{
+      font-feature-settings: "smcp";
+    }
   }
 }
 
@@ -86,6 +89,9 @@ a{
       text-decoration: underline !important;
       font-feature-settings: "salt";
       font-weight: 500;
+      span{
+        font-feature-settings: "smcp";
+      }
     }
   }
 }
